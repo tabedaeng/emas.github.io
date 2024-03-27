@@ -1,1 +1,17 @@
-<svg width="540" height="370" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient x1="0%" y1="0%" y2="100%" id="a"><stop stop-color="#F8F9FB" offset="0%"/><stop stop-color="#FFF" offset="100%"/></linearGradient></defs><g fill="none" fill-rule="evenodd"><path fill="#FFF" d="M0 0h540v370H0z"/><path fill="url(#a)" d="M0 34.571h540v124.268H0z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="540px" height="370px" viewBox="0 0 540 370" enable-background="new 0 0 540 370" xml:space="preserve">
+<g>
+	<path fill="#FFFFFF" d="M0,0h540v370H0V0z"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-70.9001" y1="3.7871" x2="-69.9003" y2="4.787" gradientTransform="matrix(540 0 0 124.268 38285.8672 -436.0938)">
+		<stop  offset="0" style="stop-color:#F8F9FB"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M0,34.571h540v124.268H0V34.571z"/>
+</g>
+<image overflow="visible" width="1920" height="1280" xlink:href="../../../../../Kiraz Mevsimi/emas/4_20240327_233414_0000.png"  transform="matrix(0.2813 0 0 0.2896 -2.441406e-004 -0.6899)">
+</image>
+</svg>
